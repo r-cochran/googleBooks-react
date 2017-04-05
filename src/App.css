@@ -6,7 +6,7 @@
 h2 {
     display: inline;
 }
-img {
+.App-header img {
     max-height: 35px;
     vertical-align: top;
 }
